@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Seleniumtask
+Bundle-SymbolicName: Seleniumtask
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Seleniumtask
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
